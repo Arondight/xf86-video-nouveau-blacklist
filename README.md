@@ -19,7 +19,7 @@ If you have obtained the nouveau driver yourself and want to try it,
 remove this package to allow the kernel module to load.
 ```
 
-## Installtion
+## Installation
 
 ### Arch Linux
 
