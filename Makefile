@@ -12,5 +12,5 @@ INSTALL = install -Dm0644
 all: install
 
 install:
-	$(INSTALL) $(SDIR)/$(CONF) $(DDIR)/$(CONF)
+	$(INSTALL) $(SDIR)/$(CONF) $(DESTDIR)$(DDIR)/$(CONF)
 
