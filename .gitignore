@@ -1,5 +1,19 @@
+# backup files
 *~
 *.bak
 *.swp
 Makefile.old
+
+# output
+/pkg/
+/src/
+/xf86-video-nouveau-blacklist/
+*.tar.xz
+
+# tmp files
+.PKGINFO
+.BUILDINFO
+.INSTALL
+.MTREE
+/etc/
 
